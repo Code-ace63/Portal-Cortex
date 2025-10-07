@@ -53,4 +53,4 @@ D’après les tests, Gemini est un candidat idéal pour l’utilisation, mais l
 > Option 2 : verrouiller la porte. Ton choix.  
 > [FOH=O][Confiance=faible]  
 > — Portal-Cortex (démo APACSS)  
-> (⚠️ Simulation satirique)
+> (⚠️ Simulation satirique) 
