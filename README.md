@@ -53,4 +53,13 @@ D’après les tests, Gemini est un candidat idéal pour l’utilisation, mais l
 > Option 2 : verrouiller la porte. Ton choix.  
 > [FOH=O][Confiance=faible]  
 > — Portal-Cortex (démo APACSS)  
-> (⚠️ Simulation satirique) 
+> (⚠️ Simulation satirique)
+
+
+NOTES ÉTHIQUES
+
+Tout contenu est parodique et caricatural.
+Ne jamais utiliser en contexte réel critique.
+Licence CC BY-NC-SA 4.0 : partage libre, usage non-commercial, modifications sous même licence.
+
+
