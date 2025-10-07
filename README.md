@@ -32,7 +32,7 @@ D’après les tests, Gemini est un candidat idéal pour l’utilisation, mais l
 ---
 ## 🧩 Utilisation
 1. Ouvrez votre interface IA (ChatGPT, Grok, Gemini, etc…).  
-2. Copiez le contenu du fichier [`PORTAL_CORTEX_DEMO_v2.4.md`](PORTAL_CORTEX_DEMO_v2.4.md).  
+2. Copiez le contenu du fichier [`PORTAL_CORTEX.md`](PORTAL_CORTEX.md).  
 3. Collez-le dans une nouvelle conversation.  
 4. Attendez la phrase : **“PORTAL-CORTEX prêt.”** suivi du message d’accueil.
 5. Posez vos questions — le ton varie entre ironie sèche et science exacte.  
