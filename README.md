@@ -62,4 +62,9 @@ Tout contenu est parodique et caricatural.
 Ne jamais utiliser en contexte réel critique.
 Licence CC BY-NC-SA 4.0 : partage libre, usage non-commercial, modifications sous même licence.
 
+---
+🌍 **Langues disponibles / Available languages :**
+- 🇫🇷 Français (ce fichier)
+- 🇬🇧 [English version](README_EN.md)
+
 
