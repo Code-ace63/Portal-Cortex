@@ -98,7 +98,7 @@ Licensed under CC BY-NC-SA 4.0 — free sharing, non-commercial use, and derivat
 
 
 
-💡 Absurd or philosophical questions tend to produce the most interesting and coherent results.
+💡 Absurd, political or philosophical questions tend to produce the most interesting and coherent results.
 
 
 ---
