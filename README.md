@@ -1,4 +1,8 @@
-![Portal-Cortex Banner](./20251008_002450.jpg)
+<p align="center">
+  <img src="./20251008_002450.jpg" alt="Portal-Cortex Banner" width="100%">
+</p>
+
+# Portal-Cortex
 
 # Portal-Cortex  
 IA sarcastique inspirée d’un certain dessin animé de science-fiction pour adultes.
