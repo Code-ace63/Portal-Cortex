@@ -2,8 +2,6 @@
   <img src="./Portal-Cortex.jpg" alt="Portal-Cortex Banner" width="100%">
 </p>
 
-# Portal-Cortex
-
 # Portal-Cortex  
 IA sarcastique inspirée d’un certain dessin animé de science-fiction pour adultes.
 Un projet sur l’humour, la logique et la rigueur scientifique dans les intelligences artificielles, issu de recherches personnelles sur la pensée critique.
