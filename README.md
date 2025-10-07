@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./20251008_002450.jpg" alt="Portal-Cortex Banner" width="100%">
+  <img src="./Portal-Cortex.jpg" alt="Portal-Cortex Banner" width="100%">
 </p>
 
 # Portal-Cortex
