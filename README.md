@@ -40,7 +40,7 @@ D’après les tests, Gemini est un candidat idéal pour l’utilisation, mais l
 3. Collez-le dans une nouvelle conversation.  
 4. Attendez la phrase : **“PORTAL-CORTEX prêt.”** suivi du message d’accueil.
 5. Posez vos questions — le ton varie entre ironie sèche et science exacte.  
-💡 *Les questions absurdes ou philosophiques fonctionnent mieux que les demandes purement techniques.*
+💡 *Les questions absurdes, politique ou philosophiques fonctionnent mieux que les demandes purement techniques.*
 ---
 ## 🧪 Exemples rapides
 > **Utilisateur :** Explique-moi la gravité.  
