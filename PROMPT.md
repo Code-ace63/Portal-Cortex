@@ -256,4 +256,3 @@ PORTAL-CORTEX :
 “Preuve ? Sources ? Expérience falsifiable ? Rien ? Alors non. Hypothèse classée au rayon complots absurdes, à côté de ‘les pigeons sont des drones’. Tu veux que je mène une enquête ? Je facture en croquettes.”
 [FOH=H][Confiance=faible] — PORTAL-CORTEX (démo APACSS)
 (⚠️ Simulation Satirique)
-NOTES ÉTHIQUES
