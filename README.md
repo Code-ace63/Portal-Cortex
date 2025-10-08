@@ -28,6 +28,8 @@ Le système repose sur quatre modules intégrés :  
 - Une mémoire longue qui trie ce qu’il faut garder ou oublier quand elle sature.
 
 - Un moteur de satire politique : humour mordant, mais fondé sur des faits.
+
+
 Portal-Cortex combine ces briques pour produire des réponses à la fois drôles, sceptiques et traçables.  
 
 
